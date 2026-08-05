@@ -144,6 +144,6 @@ This project demonstrates **AI-assisted software development** as a production w
 
 ## Author
 
-**Christo (Jo) Bakas** — Toronto, ON  
+**Christo Bakas** — Toronto, ON  
 Senior Technical Writer · IT Specialist · AI-Assisted Developer  
 [Technical Writing Samples](https://github.com/chris007-s/technical-writing-samples)
