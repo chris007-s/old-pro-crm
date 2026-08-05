@@ -1,0 +1,7 @@
+# Sensitive data — never commit these
+*.db
+*.json
+*.env
+~/.old_pro_crm*
+__pycache__/
+*.pyc
